@@ -9,5 +9,19 @@ h1, h2, h3 {
     background-color: black;
     color: beige;
     font-weight: bold;
+    padding: 8px;
+}
+
+li {
+    margin: 8px;
+}
+
+p {
+    margin: 8px;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
 
